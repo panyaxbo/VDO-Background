@@ -4,5 +4,6 @@
 /tmp
 /out-tsc
 .vscode
+.gitignore
 # dependencies
 /node_modules
